@@ -1,33 +1,14 @@
-Central to enhancing the use and value of Earth Science data are good information management practices, and the Information Management Code Registry works to this end by facilitating discovery and use of software solutions for information management needs.
+Our primary goal is to simplify discovery and use of IM software for research groups operating in the Earth Sciences domain by providing a comprehensive registry that is searchable by task (e.g. quality control) and common software attributes (e.g. language). Our secondary goal is to facilitate development of new IM software by highlighting gaps in coverage and providing a community forum for discussions of new ideas.
 
-### Markdown
+Search results return high-level metadata enabling fitness for use assessments and linking to software that can be installed and run from your local machine or accessed via web-services. We emphasize free and open source software but do not exclude proprietary sources.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Search tips
 
-```markdown
-Syntax highlighted code block
+Software is tagged with terms from the IMCR Controlled Vocabulary, which is organized around common IM tasks found in the research-life-cycle. Use vocabulary terms when searching by keyword.
 
-# Header 1
-## Header 2
-### Header 3
+### Registry contents
 
-- Bulleted
-- List
+### Contribute
 
-1. Numbered
-2. List
+### Contact
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IMCR-Hackathon/portal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
