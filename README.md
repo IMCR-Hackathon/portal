@@ -6,9 +6,9 @@ Software is tagged with terms from a controlled vocabulary organized around comm
 
 ### Results
 
-Results contain high-level information for you to quickly assess fitness for use and link you to additional details and where the software can be accessed.
+Results contain high-level information for you to quickly evaluate fitness for use, find additional details, and access the software. As of 2019-07-21, the registry contains 183 software items implemented primarily in R and Python and spanning a broad range of IM tasks.
 
-### Overview of registry contents
+
 
 ### Contribute
 
