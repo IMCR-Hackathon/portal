@@ -8,9 +8,10 @@ Software is tagged with terms from a [controlled vocabulary](http://vocab.lterne
 
 Results contain high-level information for you to quickly evaluate fitness for use, find additional details, and access the software. As of 2019-07-21, the registry contains 183 software items implemented primarily in R and Python and spanning a broad range of IM tasks.
 
+### Participate
 
-
-### Contribute
-
-### Contact
-
+* Add to the registry
+* Email: esip-imcoderegistry@lists.esipfed.org
+* Telecons: [First Wednesday of each month at 2:00 pm EDT](https://global.gotomeeting.com/join/701843053)
+* Slack: [IM Code Registry](https://join.slack.com/t/imcoderegistry/shared_invite/enQtNjg5ODgyNjI4NzA2LTM2ZmVlM2UxZDY3MTc4MmEzYzRjYWQ3Zjg2MjlmNWVmYjI2YjkyYjk5YWZkOWRmZWZjMTBkODAwOWE1ZTIwMzQ)
+* Twitter: [#IMcodeRegsitry](https://twitter.com/search?q=%23IMcodeRegistry&src=typd)
