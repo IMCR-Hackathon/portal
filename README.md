@@ -2,7 +2,7 @@ We strive for a comprehensive registry of Earth Sciences IM software that is sea
 
 ### Search
 
-Software is tagged with terms from a controlled vocabulary organized around common IM tasks found in the research data life-cycle. Use this vocabulary when searching by keyword.
+Software is tagged with terms from a [controlled vocabulary](http://vocab.lternet.edu/vocab/registry/index.php) organized around common IM tasks found in the research data life-cycle. Use this vocabulary when searching by keyword.
 
 ### Results
 
