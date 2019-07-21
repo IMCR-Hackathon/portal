@@ -1,5 +1,3 @@
-## Welcome!
-
 Central to enhancing the use and value of Earth Science data are good information management practices, and the Information Management Code Registry works to this end by facilitating discovery and use of software solutions for information management needs.
 
 ### Markdown
