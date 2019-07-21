@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/IMCR-Hackathon/portal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Central to enhancing the use and value of Earth Science data are good information management practices, and the Information Management Code Registry works to this end by facilitating discovery and use of software solutions for information management needs.
 
 ### Markdown
 
