@@ -1,12 +1,12 @@
-Our primary goal is to simplify discovery and use of IM software for research groups operating in the Earth Sciences domain by providing a comprehensive registry that is searchable by task (e.g. quality control) and common software attributes (e.g. language). Our secondary goal is to facilitate development of new IM software by highlighting gaps in coverage and providing a community forum for discussions of new ideas.
+We provide a comprehensive registry of Earth Sciences IM software that is searchable by task (e.g. quality control) and common software attributes (e.g. language), as well as provide an community forum for discussing new ideas to be developed. We emphasize free and open source software but do not exclude proprietary sources.
 
-Search results return high-level metadata enabling fitness for use assessments and linking to software that can be installed and run from your local machine or accessed via web-services. We emphasize free and open source software but do not exclude proprietary sources.
+### Search
 
-### Search tips
+Software is tagged with terms from the IMCR Controlled Vocabulary, which is organized around common IM tasks found in the research life-cycle. Use this vocabulary when searching by keyword.
 
-Software is tagged with terms from the IMCR Controlled Vocabulary, which is organized around common IM tasks found in the research-life-cycle. Use vocabulary terms when searching by keyword.
+Search results return high-level metadata enabling fitness for use assessments and linking to software that can be installed and run from your local machine or accessed via web-services.
 
-### Registry contents
+### Overview of registry contents
 
 ### Contribute
 
