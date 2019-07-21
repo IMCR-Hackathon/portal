@@ -2,9 +2,9 @@ We provide a comprehensive registry of Earth Sciences IM software that is search
 
 ### Search
 
-Software is tagged with terms from the IMCR Controlled Vocabulary, which is organized around common IM tasks found in the research life-cycle. Use this vocabulary when searching by keyword.
+Software is tagged with terms from a controlled vocabulary organized around common IM tasks found in the research data life-cycle. Use this vocabulary when searching by keyword.
 
-Search results return high-level metadata enabling fitness for use assessments and linking to software that can be installed and run from your local machine or accessed via web-services.
+Search results contain high-level information for you to quickly assess fitness for use and links you to additional details and where the software can be accessed.
 
 ### Overview of registry contents
 
