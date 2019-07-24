@@ -8,10 +8,7 @@ Software is tagged with terms from a [controlled vocabulary](http://vocab.lterne
 
 Metadata enables quick evaluation for fitness of use and access to the software. As of 2019-07-21, the registry contains 183 software items written in R and Python, spanning a broad range of IM tasks.
 
-![](https://github.com/IMCR-Hackathon/portal/blob/master/software_by_language.png width=100)
-
-:-------------------------:|:-------------------------:
-![](https://github.com/IMCR-Hackathon/portal/blob/master/software_by_language.png width=100) | ![](https://github.com/IMCR-Hackathon/portal/blob/master/software_by_task.png width=100)
+<img src="https://github.com/IMCR-Hackathon/portal/blob/master/software_by_language.png" width="100" height="100"> <img src="https://github.com/IMCR-Hackathon/portal/blob/master/software_by_task.png" width="100" height="100">
 
 ### Participate
 
