@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: software_by
 title: Languages
 description: Software languages in the IMCR
 ---
