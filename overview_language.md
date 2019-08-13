@@ -8,6 +8,6 @@ description: Software languages in the IMCR
   <img width="500" src="https://github.com/IMCR-Hackathon/portal/blob/master/software_by_language.png">
 </p>
 
-Currently, software in the IMCR is primarily implemented in R and Python.
+_Updated 2019-07-21_
 
 [back](./)
