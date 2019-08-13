@@ -6,9 +6,7 @@ Software is tagged with terms from a [controlled vocabulary](http://vocab.lterne
 
 ### Results
 
-Metadata enables quick evaluation for fitness of use and access to the software. As of 2019-07-21, the registry contains 183 software libraries primarily [written in R and Python](./overview_language.html), and spanning a broad range of IM tasks.
-
-<img src="\portal\software_by_language.png" width="100" height="100"> <img src="https://github.com/IMCR-Hackathon/portal/blob/master/software_by_task.png" width="100" height="100">
+Metadata enables quick evaluation for fitness of use and access to the software. As of 2019-07-21, the registry contains 183 software libraries primarily [written in R and Python](./overview_language.html), and spanning [a broad range of IM tasks](./overview_tasks.html).
 
 ### Participate
 
