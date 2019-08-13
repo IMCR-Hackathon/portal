@@ -1,7 +1,7 @@
 ---
 layout: software_by
 title: Languages
-description: Software languages in the IMCR
+description: Implementation languages of software in the IMCR
 ---
 
 <p align="center">
