@@ -4,8 +4,10 @@ title: Languages
 description: Software languages in the IMCR
 ---
 
-## Welcome to another page
+<p align="center">
+  <img width="500" src="https://github.com/IMCR-Hackathon/portal/blob/master/software_by_language.png">
+</p>
 
-_yay_
+Currently, software in the IMCR is primarily implemented in R and Python.
 
 [back](./)
