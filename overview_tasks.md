@@ -4,8 +4,10 @@ title: Tasks
 description: IM tasks in the IMCR
 ---
 
-## Welcome to another page
+<p align="center">
+  <img width="900" src="https://github.com/IMCR-Hackathon/portal/blob/master/software_by_task.png">
+</p>
 
-_yay_
+_Updated 2019-07-21_
 
 [back](./)
