@@ -1,7 +1,7 @@
 ---
 layout: software_by
 title: Tasks
-description: IM tasks in the IMCR
+description: Tasks performed by software libraries in the IMCR
 ---
 
 <p align="center">
